@@ -1,1 +1,7 @@
-
+Programming Lanuages:
+  Python
+  C
+Sports:
+  Cricket
+Hobby:
+  tinkering the ubuntu os until it crashs
