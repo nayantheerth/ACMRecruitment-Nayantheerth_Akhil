@@ -2,4 +2,4 @@
 
 This repository is for ACM Recruitment by Nayantheerth Akhil
 
-## Skills
+## skills
